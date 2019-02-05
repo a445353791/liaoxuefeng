@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f48c3f7d-d4d7-47b7-ae64-3ee3b8255200" name="Default" comment="" />
+    <list default="true" id="f48c3f7d-d4d7-47b7-ae64-3ee3b8255200" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/com/liao/funcprogram/do_partial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/liaoxuefeng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/liaoxuefeng.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/liao/basics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/liao/basics/__init__.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,61 +15,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/liaoxuefeng$return_func.coverage" NAME="return_func Coverage Results" MODIFIED="1548730456759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$special_str.coverage" NAME="special_str Coverage Results" MODIFIED="1549297376202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/objadvanced" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$special_getitem.coverage" NAME="special_getitem Coverage Results" MODIFIED="1549301322201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/objadvanced" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$the_dict.coverage" NAME="the_dict Coverage Results" MODIFIED="1547971123563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/basics" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_map.coverage" NAME="do_map Coverage Results" MODIFIED="1548386542230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_filter.coverage" NAME="do_filter Coverage Results" MODIFIED="1548572210794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$recur.coverage" NAME="recur Coverage Results" MODIFIED="1548142398901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_iter.coverage" NAME="do_iter Coverage Results" MODIFIED="1548145413830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/speciality" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$use_slots.coverage" NAME="use_slots Coverage Results" MODIFIED="1549094510343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/objadvanced" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$def_func.coverage" NAME="def_func Coverage Results" MODIFIED="1547979229296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$cryptonym_func.coverage" NAME="cryptonym_func Coverage Results" MODIFIED="1548743945488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$special_iter.coverage" NAME="special_iter Coverage Results" MODIFIED="1549299800249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/objadvanced" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$do_for.coverage" NAME="do_for Coverage Results" MODIFIED="1547968978397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/basics" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$kw_args.coverage" NAME="kw_args Coverage Results" MODIFIED="1548141646341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$call_func.coverage" NAME="call_func Coverage Results" MODIFIED="1547978412630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$var_args.coverage" NAME="var_args Coverage Results" MODIFIED="1547983652294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1549298086218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/basics" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$return_func.coverage" NAME="return_func Coverage Results" MODIFIED="1548730456759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$do_partial.coverage" NAME="do_partial Coverage Results" MODIFIED="1548750018448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$special_getattr.coverage" NAME="special_getattr Coverage Results" MODIFIED="1549358398241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/objadvanced" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_reduce.coverage" NAME="do_reduce Coverage Results" MODIFIED="1548389777604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_listcompr.coverage" NAME="do_listcompr Coverage Results" MODIFIED="1548147551139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/speciality" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_while.coverage" NAME="do_while Coverage Results" MODIFIED="1547969641782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/basics" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$the_set.coverage" NAME="the_set Coverage Results" MODIFIED="1547972185235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/basics" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_slice.coverage" NAME="do_slice Coverage Results" MODIFIED="1548144277293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/speciality" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$def_func.coverage" NAME="def_func Coverage Results" MODIFIED="1547979229296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$cryptonym_func.coverage" NAME="cryptonym_func Coverage Results" MODIFIED="1548743945488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_generator.coverage" NAME="do_generator Coverage Results" MODIFIED="1548148580975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/speciality" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$do_for.coverage" NAME="do_for Coverage Results" MODIFIED="1547968978397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/basics" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$kw_args.coverage" NAME="kw_args Coverage Results" MODIFIED="1548141646341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
     <SUITE FILE_PATH="coverage/liaoxuefeng$do_sorted.coverage" NAME="do_sorted Coverage Results" MODIFIED="1548666184793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$call_func.coverage" NAME="call_func Coverage Results" MODIFIED="1547978412630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$var_args.coverage" NAME="var_args Coverage Results" MODIFIED="1547983652294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/function" />
-    <SUITE FILE_PATH="coverage/liaoxuefeng$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1548745384388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1548749452283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/liao/funcprogram" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="do_sorted.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/do_sorted.py">
+      <file leaf-file-name="special_getattr.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/special_getattr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="return_func.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/return_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cryptonym_func.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/cryptonym_func.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="decorator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/decorator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="163">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -77,6 +62,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,6 +90,17 @@
         <option value="$PROJECT_DIR$/com/liao/funcprogram/return_func.py" />
         <option value="$PROJECT_DIR$/com/liao/funcprogram/cryptonym_func.py" />
         <option value="$PROJECT_DIR$/com/liao/funcprogram/decorator.py" />
+        <option value="$PROJECT_DIR$/com/liao/funcprogram/do_partial.py" />
+        <option value="$PROJECT_DIR$/com/liao/module/__init__.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/use_slots.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/use_property.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/multiple_extend.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/special_str.py" />
+        <option value="$PROJECT_DIR$/com/liao/basics/hello.py" />
+        <option value="$PROJECT_DIR$/com/liao/basics/__init__.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/special_iter.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/special_getitem.py" />
+        <option value="$PROJECT_DIR$/com/liao/objadvanced/special_getattr.py" />
       </list>
     </option>
   </component>
@@ -115,10 +114,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="46" />
-    <option name="width" value="1195" />
-    <option name="height" value="785" />
+    <option name="x" value="415" />
+    <option name="y" value="23" />
+    <option name="width" value="1373" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -151,6 +150,27 @@
               <item name="liao" type="462c0819:PsiDirectoryNode" />
               <item name="funcprogram" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="liaoxuefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liaoxuefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="liao" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liaoxuefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liaoxuefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="liao" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="liaoxuefeng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liaoxuefeng" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="liao" type="462c0819:PsiDirectoryNode" />
+              <item name="objadvanced" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +179,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decorator">
-    <configuration name="cryptonym_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.special_getattr">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="liaoxuefeng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,18 +202,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/funcprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/funcprogram/cryptonym_func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/basics/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="special_getattr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="liaoxuefeng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,18 +221,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/funcprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/objadvanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/funcprogram/decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/objadvanced/special_getattr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="do_filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="special_getitem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="liaoxuefeng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,18 +240,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/funcprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/objadvanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/funcprogram/do_filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/objadvanced/special_getitem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="do_sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="special_iter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="liaoxuefeng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,18 +259,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/funcprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/objadvanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/funcprogram/do_sorted.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/objadvanced/special_iter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="return_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="special_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="liaoxuefeng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,31 +278,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/funcprogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/liao/objadvanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/funcprogram/return_func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/liao/objadvanced/special_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.do_filter" />
-      <item itemvalue="Python.do_sorted" />
-      <item itemvalue="Python.return_func" />
-      <item itemvalue="Python.cryptonym_func" />
-      <item itemvalue="Python.decorator" />
+      <item itemvalue="Python.special_str" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.special_iter" />
+      <item itemvalue="Python.special_getitem" />
+      <item itemvalue="Python.special_getattr" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.decorator" />
-        <item itemvalue="Python.cryptonym_func" />
-        <item itemvalue="Python.return_func" />
-        <item itemvalue="Python.do_sorted" />
-        <item itemvalue="Python.do_filter" />
+        <item itemvalue="Python.special_getattr" />
+        <item itemvalue="Python.special_getitem" />
+        <item itemvalue="Python.special_iter" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.special_str" />
       </list>
     </recent_temporary>
   </component>
@@ -296,25 +317,34 @@
       <option name="presentableId" value="Default" />
       <updated>1547951301910</updated>
     </task>
+    <task id="LOCAL-00001" summary="完成装饰器">
+      <created>1548749531915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548749531915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="46" width="1195" height="785" extended-state="0" />
+    <frame x="592" y="51" width="1373" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004156" side_tool="true" weight="0.45795795" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29037657" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32948717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17580767" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49958438" visible="true" weight="0.37820512" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49958438" visible="true" weight="0.37974682" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,12 +353,39 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25995493" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49958438" visible="true" weight="0.37820512" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32948717" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5004156" side_tool="true" weight="0.45795795" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成装饰器" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成装饰器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,10 +396,45 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/do_partial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/do_sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/return_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/cryptonym_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/liao/speciality/do_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -357,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/liao/basics/do_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/liao/basics/the_set.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -375,13 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/liao/basics/do_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -413,13 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/types.py" />
     <entry file="file://$PROJECT_DIR$/com/liao/function/recur.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -438,13 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/liao/speciality/do_listcompr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -490,31 +555,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/do_sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/return_func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/cryptonym_func.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="17">
           <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/do_sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/decorator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="252">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/return_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/funcprogram/do_partial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/module/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/speciality/do_listcompr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/use_slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/use_property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/multiple_extend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/special_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/basics/do_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/basics/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/basics/do_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/basics/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/special_iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/special_getitem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/liao/objadvanced/special_getattr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
